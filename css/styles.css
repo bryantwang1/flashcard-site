@@ -1,0 +1,12 @@
+.initially-hidden {
+  display: none;
+}
+
+.clickable li {
+  color: darkorange;
+  cursor: pointer;
+}
+
+.clickable li:hover {
+  text-decoration: underline;
+}
